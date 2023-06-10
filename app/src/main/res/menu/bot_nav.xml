@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="@string/email"
+        android:id="@+id/bn_icon_email"
+        android:icon="@drawable/outline_email_24"/>
+    <item android:title="@string/meet"
+        android:id="@+id/bn_icon_meet"
+        android:icon="@drawable/outline_video_call_24"/>
+</menu>

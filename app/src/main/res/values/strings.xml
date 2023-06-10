@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">AndroidExercise</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="password">Password</string>
+    <string name="input_password">Input Password</string>
+    <string name="input_email">Input Email</string>
+    <string name="email">Email</string>
+    <string name="meet">Rapat</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="belum_punya_akun">Belum punya akun?</string>
+    <string name="daftar_sekarang">Daftar Sekarang</string>
+    <string name="sudah_punya_akun">Sudah Punya Akun?</string>
+    <string name="login_sekarang">Login Sekarang</string>
+    <string name="konfirmasi_password">Konfirmasi Password</string>
+    <string name="jdc_music">JDC Music</string>
+    <string name="tidak_ada_email_masuk">Tidak ada email masuk</string>
+    <string name="mulai_rapat_baru_atau_dapatkan_link_rapat">Mulai rapat baru atau dapatkan link rapat</string>
+    <string name="meet_desc">Ketuk rapat baru untuk memulai rapat dan ketuk gabung pakai kode untuk bergabung rapat</string>
+    <string name="btn_rapat">Rapat Baru</string>
+    <string name="btn_gabung_rapat">Gabung pakai kode</string>
+
+    <string-array name="username">
+        <item>JDC Music</item>
+        <item>Dribble</item>
+        <item>Spotify</item>
+        <item>BCA</item>
+        <item>BRI</item>
+    </string-array>
+
+    <string-array name="mail">
+        <item>Selamat siang, kami dari JDC Music ingin</item>
+        <item>Desain anda dicuri orang</item>
+        <item>Buatlah playlist lagu yang kamu sukai</item>
+        <item>Terdapat transaksi mencurigakan</item>
+        <item>Terdapat transaksi mencurigakan</item>
+    </string-array>
+
+    <integer-array name="pProfile">
+        <item>@drawable/jdc_music</item>
+        <item>@drawable/dribble_logo</item>
+        <item>@drawable/spotify_logo</item>
+        <item>@drawable/bca_logo</item>
+        <item>@drawable/bri_logo</item>
+    </integer-array>
+</resources>
