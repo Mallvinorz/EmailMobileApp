@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/berbintang"
+        android:icon="@drawable/baseline_star_outline_24"
+        android:title="Berbintang"/>
+    <item
+        android:id="@+id/ditunda"
+        android:icon="@drawable/outline_access_time_24"
+        android:title="Ditunda"/>
+    <item
+        android:id="@+id/penting"
+        android:icon="@drawable/baseline_label_important_24"
+        android:title="Penting"/>
+    <item
+        android:id="@+id/terkirim"
+        android:icon="@drawable/outline_send_24"
+        android:title="Terkirim"/>
+    <item
+        android:id="@+id/terjadwal"
+        android:icon="@drawable/outline_schedule_send_24"
+        android:title="Terjadwal"/>
+    <item
+        android:id="@+id/kotak_keluar"
+        android:icon="@drawable/outline_outbox_24"
+        android:title="Kotak keluar"/>
+    <item
+        android:id="@+id/draf"
+        android:icon="@drawable/outline_insert_drive_file_24"
+        android:title="Draf"/>
+    <item
+        android:id="@+id/semua_email"
+        android:icon="@drawable/outline_all_inbox_24"
+        android:title="Semua email"/>
+    <item
+        android:id="@+id/spam"
+        android:icon="@drawable/outline_report_24"
+        android:title="Spam"/>
+    <item
+        android:id="@+id/sampah"
+        android:icon="@drawable/outline_delete_24"
+        android:title="Sampah"/>
+    <item
+        android:id="@+id/setelan"
+        android:icon="@drawable/outline_settings_24"
+        android:title="Setelan"/>
+    <item
+        android:id="@+id/bantuan"
+        android:icon="@drawable/outline_help_outline_24"
+        android:title="Bantuan dan Masukan"/>
+</menu>

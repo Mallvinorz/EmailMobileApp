@@ -28,6 +28,8 @@
     <string name="meet_desc">Ketuk rapat baru untuk memulai rapat dan ketuk gabung pakai kode untuk bergabung rapat</string>
     <string name="btn_rapat">Rapat Baru</string>
     <string name="btn_gabung_rapat">Gabung pakai kode</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
 
     <string-array name="username">
         <item>JDC Music</item>
